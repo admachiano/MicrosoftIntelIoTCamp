@@ -1,8 +1,8 @@
 {
     "localport": "3000",
-    "iotHubConnString": "<PASTE YOUR IOT HUB 'SERVICE' SAS POLICY PRIMARY CONNECTION STRING HERE>",
-    "sqlServer": "<PASTE YOUR AZURE SQL SERVER FULLY QUALIFIED DOMAIN NAME (FQDN) HERE>",
-    "sqlDatabase" : "<PASTE YOUR AZURE SQL DATABASE NAME HERE>",
-    "sqlLogin" : "<PASTE YOUR AZURE SQL SERVER LOGIN HERE>",
-    "sqlPassword" : "<PASTE YOUR AZURE SQL SERVER PASSWORD HERE>"
+    "iotHubConnString": "HostName=adm1026iot.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=AaWLUulRoBp9bbnzPpSdh2trsZDn6pKCBrB4phWglo8=",
+    "sqlServer": "adm1026sql.database.windows.net",
+    "sqlDatabase" : "adm1026db",
+    "sqlLogin" : "sqladmin",
+    "sqlPassword" : "P@ssw0rd"
 } 

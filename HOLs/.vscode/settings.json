@@ -7,10 +7,10 @@
             "authenticationType": "SqlLogin",
 
             //
-            "server": "paste your Azure SQL Server Fully Qualified Domain Name (FQDN) here",
-            "database": "paste your Azure SQL Database Name here",
-            "user": "paste your Azure SQL Server Qualified SQL Login here",
-            "password": "paste your Azure SQL Server Password here",
+            "server": "adm1026sql.database.windows.net",
+            "database": "adm1026db",
+            "user": "sqladmin@adm1026sql",
+            "password": "P@ssw0rd",
             "savePassword": true
         }
     ]
